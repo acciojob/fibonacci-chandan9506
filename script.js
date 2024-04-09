@@ -9,7 +9,7 @@ function fibonacci(num) {
 
     return fib[num];
 }
- let num=9;
+ let num=5;
     document.write(fibonacci(num));
 
 module.exports = fibonacci;
