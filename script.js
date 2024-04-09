@@ -10,6 +10,6 @@ function fibonacci(num) {
     return fib[num];
 }
  let num=9;
-    document.write(fib(num));
+    document.write(fibonacci(num));
 
 module.exports = fibonacci;
